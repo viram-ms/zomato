@@ -1,1 +1,4 @@
 node_modules/
+
+# Using npm on Viram's laptop, not yarn. Don't need 2 lock files.
+yarn.lock

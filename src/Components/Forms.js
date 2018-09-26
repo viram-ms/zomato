@@ -8,7 +8,6 @@ class Forms extends Component{
       <input type="text" name="search" placeholder="search" />
       <button>Submit</button>
       </form>
-
       </div>
     )
   }
